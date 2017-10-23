@@ -29,6 +29,7 @@ This workshop is intended to provide both basic R programming knowledge AND its 
 ### Contents
 
 #### Introduction to R
+
 | Lessons            | Estimated duration |
 |:------------------------|:----------|
 |[Introduction to R and RStudio](https://github.com/hbctraining/Intro-to-R/blob/master/lessons/01_introR-R-and-RStudio.md) | 40 min |
@@ -40,6 +41,7 @@ This workshop is intended to provide both basic R programming knowledge AND its 
 |[Data visualization with ggplot2](https://github.com/hbctraining/Intro-to-R/blob/master/lessons/07_ggplot2.md) | 60 min |
 
 #### Differential Gene Expression (DGE) using RNA-seq raw counts data
+
 | Lessons            | Estimated duration |
 |:------------------------|:----------|
 |[Setting up and DGE overview](https://github.com/hbctraining/DGE_workshop/blob/master/lessons/01_DGE_setup_and_overview.md) | 70 min |
@@ -52,6 +54,12 @@ This workshop is intended to provide both basic R programming knowledge AND its 
 |[Complex designs with DESeq2 (LRT)](https://github.com/hbctraining/DGE_workshop/blob/master/lessons/08_DGE_LRT.md) | 30 min |
 |[Functional Analysis](https://github.com/hbctraining/DGE_workshop/blob/master/lessons/09_functional_analysis.md) | 85 min |
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 ***
 
 *These materials have been developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
