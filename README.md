@@ -54,12 +54,6 @@ This workshop is intended to provide both basic R programming knowledge AND its 
 |[Complex designs with DESeq2 (LRT)](https://github.com/hbctraining/DGE_workshop/blob/master/lessons/08_DGE_LRT.md) | 30 min |
 |[Functional Analysis](https://github.com/hbctraining/DGE_workshop/blob/master/lessons/09_functional_analysis.md) | 85 min |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 ***
 
 *These materials have been developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
