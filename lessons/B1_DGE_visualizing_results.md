@@ -115,7 +115,6 @@ The `merge()` will merge 2 data frames with respect to the "samplename" column, 
 Now that we have a data frame in a format that can be utilised by ggplot easily, let's plot! 
 
 <details>
-	
 <pre>
 <code>
 ## plot using ggplot2
