@@ -119,23 +119,15 @@ Now that we have a data frame in a format that can be utilised by ggplot easily,
 <pre>
 <code>
 ## plot using ggplot2
-<br>
-ggplot(melted_top20_sigOE) +
 
+ggplot(melted_top20_sigOE) +
         geom_point(aes(x = gene, y = normalized_counts, color = sampletype)) +
-	
-        scale_y_log10() +
-	
-        xlab("Genes") +
-	
-        ylab("Normalized Counts") +
-	
-        ggtitle("Top 20 Significant DE Genes") +
-	
-        theme_bw() +
-	
-	theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-	
+	scale_y_log10() +
+	xlab("Genes") +
+	ylab("Normalized Counts") +
+        ggtitle("Top 20 Significant DE Genes") +	
+        theme_bw() +	
+	theme(axis.text.x = element_text(angle = 45, hjust = 1)) +	
 	theme(plot.title=element_text(hjust=0.5))
 </code>
 </pre>
