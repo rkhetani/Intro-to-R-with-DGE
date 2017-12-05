@@ -128,6 +128,7 @@ ggplot(melted_top20_sigOE) +
 	theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
 	theme(plot.title=element_text(hjust=0.5))
 ```
+
 </details>
 
 <img src="../img/sig_genes_melt.png" width="600">
