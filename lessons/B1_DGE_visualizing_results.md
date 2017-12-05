@@ -116,9 +116,9 @@ Now that we have a data frame in a format that can be utilised by ggplot easily,
 
 <details>
 	
-<code>
+<code style=display:block;white-space:pre-wrap>
 ## plot using ggplot2
-	
+<br>
 ggplot(melted_top20_sigOE) +
 
         geom_point(aes(x = gene, y = normalized_counts, color = sampletype)) +
