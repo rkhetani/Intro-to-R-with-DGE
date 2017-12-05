@@ -116,7 +116,8 @@ Now that we have a data frame in a format that can be utilised by ggplot easily,
 
 <details>
 	
-<code style=display:block;white-space:pre-wrap>
+<pre>
+<code>
 ## plot using ggplot2
 <br>
 ggplot(melted_top20_sigOE) +
@@ -137,7 +138,7 @@ ggplot(melted_top20_sigOE) +
 	
 	theme(plot.title=element_text(hjust=0.5))
 </code>
-
+</pre>
 </details>
 
 <img src="../img/sig_genes_melt.png" width="600">
